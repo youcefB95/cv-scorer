@@ -1,0 +1,7 @@
+streamlit
+pdf2image
+Pillow
+matplotlib
+fpdf2
+python-dotenv
+google-generativeai>=0.4.0
